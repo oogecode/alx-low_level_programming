@@ -1,1 +1,1 @@
-my readme for C
+my readme for nested loops
